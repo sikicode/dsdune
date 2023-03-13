@@ -1,0 +1,3 @@
+1. Why NoSQL faster than SQL? <br> [NoSQL vs SQL](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+2. How to convert XLS to CSV without data loss? <br> [Convert XLS to CSV the right way](https://www.simonsezit.com/article/how-to-convert-excel-to-csv/#:~:text=To%20convert%20Excel%20to%20CSV%20file%20without%20losing%20data%2C%20first,file%20without%20losing%20any%20characters.)
+3. What are performance metrics in ML? <br> [Performance metrics in Machine Learning](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide)
